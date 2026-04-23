@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "DSA Visualizer",
+    "description": "Interactive visualizer for data structures and algorithms with step-by-step animations.",
+    "tech": ["Next.js", "TypeScript", "Framer Motion"],
+    "link": "https://example.com/dsa-visualizer",
+    "github": "https://github.com/example/dsa-visualizer",
+    "createdAt": "2026-04-01T07:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "DevMetrics Dashboard",
+    "description": "Developer analytics dashboard to track productivity and repository activity.",
+    "tech": ["Next.js", "MongoDB", "Tailwind CSS"],
+    "link": "https://example.com/devmetrics",
+    "github": "https://github.com/example/devmetrics",
+    "createdAt": "2026-04-01T07:31:00.000Z"
+  }
+]

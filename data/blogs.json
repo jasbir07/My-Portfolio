@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Building a Design System from Scratch",
+    "summary": "How to create a scalable UI system with reusable components and consistent tokens.",
+    "content": "A practical guide to organizing components, tokens, and accessibility for modern design systems.",
+    "createdAt": "2026-04-01T07:32:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "TypeScript Patterns I Use Daily",
+    "summary": "Useful TypeScript patterns that improve maintainability and developer velocity.",
+    "content": "This post covers discriminated unions, utility types, and API response typing strategies.",
+    "createdAt": "2026-04-01T07:33:00.000Z"
+  }
+]
